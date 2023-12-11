@@ -13,7 +13,3 @@ And more...
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Please note that this is a simplified README.md. For more details on how to use the application and its features, refer to the application's user documentation.
